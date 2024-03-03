@@ -24,7 +24,7 @@ html, body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background: var(--violet) url(/images/bg-desktop.svg) center/contain no-repeat;
+    background: var(--violet) url(images/bg-desktop.svg) center/contain no-repeat;
 }
 
 #logo {
@@ -141,7 +141,7 @@ i:hover {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url(/images/bg-mobile.svg);
+    background-image: url(images/bg-mobile.svg);
     background-position: top;
     background-size:contain;
     background-repeat: no-repeat;
